@@ -1,5 +1,5 @@
 # task5-wireshark-analysis
-# Wireshark Traffic Analysis
+# Traffic Analysis USING WIRESHARK
 
 ## Task Summary
 Captured and analyzed network traffic using Wireshark.
